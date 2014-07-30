@@ -1,0 +1,7 @@
+{
+  name: "bootstrap",
+  description: "Bits and bobs from Twitter Bootstrap picked to have a minimal footprint",
+  styles: [
+    "css/grid.css"
+  ]
+}
