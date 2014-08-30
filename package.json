@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap",
+  "description": "Bits and bobs from Twitter Bootstrap picked to have a minimal footprint",
+  "dependencies": {
+    "jquery": "^1.0.0"
+  },
+  "version": "3.2.0",
+  "style": [
+    "css/grid.css",
+    "css/tooltips.css"
+  ],
+  "main": "index.js"
+}
