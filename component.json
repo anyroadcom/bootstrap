@@ -4,7 +4,7 @@
   "dependencies": {
     "components/jquery": "^1.0.0"
   },
-  "version": "3.2.0",
+  "version": "3.2.0-1",
   "styles": [
     "css/grid.css",
     "css/tooltips.css"
@@ -12,6 +12,7 @@
   "main": "index.js",
   "scripts": [
     "index.js",
-    "js/tooltips.js"
+    "js/tooltips.js",
+    "js/transition.js"
   ]
 }

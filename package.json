@@ -4,7 +4,7 @@
   "dependencies": {
     "jquery": "^1.0.0"
   },
-  "version": "3.2.0",
+  "version": "3.2.0-1",
   "style": [
     "css/grid.css",
     "css/tooltips.css"
