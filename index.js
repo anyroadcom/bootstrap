@@ -6,3 +6,4 @@
  */
 
 require('./js/tooltips.js');
+require('./js/transition.js');
